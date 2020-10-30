@@ -5,7 +5,7 @@ Chatroom-backend is a backend server stack for the chatroom project using Django
 
 ## Usage
 
-	cd into root cc-be directory
+	cd into root chatroom backend
 	$ pip install django
 	$ pip install djangorestframework
 	$ pip install django-cors-headers
