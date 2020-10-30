@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Get messages",
+			"name": "Get posts",
 			"request": {
 				"method": "GET",
 				"header": [
@@ -74,7 +74,7 @@
 			"response": []
 		},
 		{
-			"name": "Create a message",
+			"name": "Create a post",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -156,7 +156,7 @@
 			"response": []
 		},
 		{
-			"name": "Edit a message",
+			"name": "Edit a post",
 			"request": {
 				"method": "POST",
 				"header": [
